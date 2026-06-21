@@ -75,3 +75,7 @@ Neue Session öffnen und fragen: **„Welcher Wochentag und welche Uhrzeit ist g
 ## Quellen
 
 Offizielle Doku: **Claude Code Hooks** (code.claude.com/docs/en/hooks) und **Codex Hooks** (developers.openai.com/codex/hooks). Beide nutzen dasselbe `UserPromptSubmit` + `hookSpecificOutput.additionalContext`-Format.
+
+---
+
+<small>Marken: Claude Code/Anthropic, Codex/OpenAI und GitHub sind Marken ihrer jeweiligen Inhaber. Dies ist ein unabhängiges, kostenloses Projekt — nicht affiliiert mit, unterstützt oder gesponsert von Anthropic, OpenAI oder GitHub. Bereitgestellt „wie besehen", ohne Gewähr. © 2026 Negotium AI UG (haftungsbeschränkt) · MIT-Lizenz.</small>

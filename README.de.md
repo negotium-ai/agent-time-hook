@@ -104,3 +104,6 @@ Hooks führen Befehle mit deinen vollen Benutzerrechten aus — *nicht* in einer
 
 ## Lizenz
 [MIT](LICENSE) — frei verwendbar.
+
+## Marken & Haftungsausschluss
+Claude Code und Anthropic sind Marken von Anthropic, PBC; Codex und OpenAI sind Marken von OpenAI, Inc.; GitHub ist eine Marke von GitHub, Inc. Dies ist ein unabhängiges, kostenloses Community-Projekt — es steht in **keiner Verbindung zu** Anthropic, OpenAI oder GitHub und wird von diesen weder unterstützt noch gesponsert. Produktnamen dienen ausschließlich der Beschreibung der Kompatibilität. Die Software wird „wie besehen" ohne jegliche Gewähr bereitgestellt (siehe [LICENSE](LICENSE)).

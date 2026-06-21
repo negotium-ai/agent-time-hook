@@ -104,3 +104,6 @@ Hooks run commands with your full user privileges — *not* sandboxed. Only use 
 
 ## License
 [MIT](LICENSE) — free to use.
+
+## Trademarks & disclaimer
+Claude Code and Anthropic are trademarks of Anthropic, PBC; Codex and OpenAI are trademarks of OpenAI, Inc.; GitHub is a trademark of GitHub, Inc. This is an independent, free community project — **not affiliated with, endorsed by, or sponsored by** Anthropic, OpenAI or GitHub. Product names are used only to describe compatibility. The software is provided "as is", without warranty of any kind (see [LICENSE](LICENSE)).

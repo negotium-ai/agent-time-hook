@@ -75,3 +75,7 @@ Start a new session and ask: **"What day and time is it right now?"** The answer
 ## Sources
 
 Official docs: **Claude Code Hooks** (code.claude.com/docs/en/hooks) and **Codex Hooks** (developers.openai.com/codex/hooks). Both use the same `UserPromptSubmit` + `hookSpecificOutput.additionalContext` format.
+
+---
+
+<small>Trademarks: Claude Code/Anthropic, Codex/OpenAI and GitHub are trademarks of their respective owners. This is an independent, free project — not affiliated with, endorsed by, or sponsored by Anthropic, OpenAI or GitHub. Provided "as is", without warranty. © 2026 Negotium AI UG (haftungsbeschränkt) · MIT License.</small>
